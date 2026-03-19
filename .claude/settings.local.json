@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(.venv/Scripts/python -c \"import mplsoccer; print\\(mplsoccer.__version__\\)\")",
+      "Bash(.venv/Scripts/pip install:*)",
+      "Bash(.venv/Scripts/python -c \"import mplsoccer; print\\(''mplsoccer'', mplsoccer.__version__\\)\")",
+      "Bash(.venv/Scripts/python -m py_compile pages/1_Shot_Map.py)"
+    ]
+  }
+}

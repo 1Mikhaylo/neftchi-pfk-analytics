@@ -1,0 +1,987 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Adriel D'Avila Ba Loua",
+                "firstName": "",
+                "lastName": "",
+                "slug": "davila-ba-loua-adriel",
+                "shortName": "A. D. B. Loua",
+                "position": "M",
+                "jerseyNumber": "50",
+                "userCount": 286,
+                "gender": "M",
+                "id": 846832,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u0627\u0641\u064a\u0644\u0627 \u0628\u0627 \u0644\u0648\u0627\u060c \u0623\u062f\u0631\u064a\u064a\u0644",
+                        "bn": "\u09a1\u09bf'\u0986\u09ad\u09bf\u09b2\u09be \u09ac\u09be \u09b2\u09c1\u09af\u09bc\u09be, \u0985\u09cd\u09af\u09be\u09a1\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u09b2",
+                        "hi": "\u0921\u0940'\u0905\u0935\u093f\u0932\u093e \u092c\u093e \u0932\u094c\u0906, \u090f\u0921\u094d\u0930\u093f\u090f\u0932"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623. \u062f. \u0628. \u0644\u0648\u0627",
+                        "bn": "\u098f. \u09a1\u09bf. \u09ac\u09bf. \u09b2\u09c1\u09af\u09bc\u09be",
+                        "hi": "\u090f.\u0921\u0940.\u092c\u0940. \u0932\u094c\u0906"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "miss",
+            "situation": "throw-in-set-piece",
+            "playerCoordinates": {
+                "x": 20,
+                "y": 48,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "close-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 57.2,
+                "z": 16.2
+            },
+            "xg": 0.0589,
+            "id": 6900622,
+            "time": 90,
+            "addedTime": 4,
+            "timeSeconds": 5623,
+            "draw": {
+                "start": {
+                    "x": 48,
+                    "y": 20
+                },
+                "end": {
+                    "x": 42.8,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 42.8,
+                    "y": 83.8
+                }
+            },
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 677,
+            "periodTimeSeconds": 223,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Murad M\u0259mm\u0259dov",
+                "firstName": "Murad",
+                "lastName": "M\u0259mm\u0259dov",
+                "slug": "murad-memmedov",
+                "shortName": "M. M\u0259mm\u0259dov",
+                "position": "M",
+                "userCount": 11,
+                "gender": "M",
+                "id": 1915162,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0645\u0631\u0627\u062f \u0645\u0645\u062f\u0648\u0641"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0645. \u0645\u0645\u062f\u0648\u0641"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 24,
+                "y": 49,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 54.2,
+                "z": 2.4
+            },
+            "xg": 0.08478,
+            "xgot": 0.3391,
+            "id": 6900621,
+            "time": 90,
+            "timeSeconds": 5390,
+            "draw": {
+                "start": {
+                    "x": 49,
+                    "y": 24
+                },
+                "end": {
+                    "x": 45.8,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 45.8,
+                    "y": 97.6
+                }
+            },
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 10,
+            "periodTimeSeconds": 2690,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Freddy Vargas",
+                "slug": "freddy-vargas",
+                "shortName": "F. Vargas",
+                "position": "M",
+                "jerseyNumber": "10",
+                "userCount": 413,
+                "gender": "M",
+                "id": 893685,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0641\u0631\u064a\u062f\u064a \u0641\u0627\u0631\u063a\u0627\u0633",
+                        "bn": "\u09ab\u09cd\u09b0\u09c7\u09a1\u09bf \u09ad\u09be\u09b0\u09cd\u0997\u09be\u09b8",
+                        "hi": "\u092b\u093c\u094d\u0930\u0947\u0921\u0940 \u0935\u0930\u094d\u0917\u093e\u0938"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641. \u0641\u0627\u0631\u063a\u0627\u0633",
+                        "bn": "\u098f\u09ab. \u09ad\u09be\u09b0\u09cd\u0997\u09be\u09b8",
+                        "hi": "\u090f\u092b. \u0935\u0930\u094d\u0917\u093e\u0938"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "miss",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 10,
+                "y": 61,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "close-high-right",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 43.5,
+                "z": 42.8
+            },
+            "xg": 0.2186,
+            "id": 6900620,
+            "time": 85,
+            "timeSeconds": 5100,
+            "draw": {
+                "start": {
+                    "x": 61,
+                    "y": 10
+                },
+                "end": {
+                    "x": 56.5,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 56.5,
+                    "y": 57.2
+                }
+            },
+            "reversedPeriodTime": 6,
+            "reversedPeriodTimeSeconds": 300,
+            "periodTimeSeconds": 2400,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Murad M\u0259mm\u0259dov",
+                "firstName": "Murad",
+                "lastName": "M\u0259mm\u0259dov",
+                "slug": "murad-memmedov",
+                "shortName": "M. M\u0259mm\u0259dov",
+                "position": "M",
+                "userCount": 11,
+                "gender": "M",
+                "id": 1915162,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0645\u0631\u0627\u062f \u0645\u0645\u062f\u0648\u0641"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0645. \u0645\u0645\u062f\u0648\u0641"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "goal",
+            "goalType": "regular",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 11,
+                "y": 38,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 51.1,
+                "z": 6
+            },
+            "xg": 0.203,
+            "xgot": 0.2228,
+            "id": 6900619,
+            "time": 77,
+            "timeSeconds": 4594,
+            "draw": {
+                "start": {
+                    "x": 38,
+                    "y": 11
+                },
+                "end": {
+                    "x": 48.9,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 48.9,
+                    "y": 94
+                }
+            },
+            "reversedPeriodTime": 14,
+            "reversedPeriodTimeSeconds": 806,
+            "periodTimeSeconds": 1894,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Emin Makhmudov",
+                "firstName": "",
+                "lastName": "",
+                "slug": "emin-makhmudov",
+                "shortName": "E. Makhmudov",
+                "position": "M",
+                "jerseyNumber": "8",
+                "userCount": 954,
+                "gender": "M",
+                "id": 114883,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0625\u0645\u064a\u0646 \u0645\u062e\u0645\u062f\u0648\u0641",
+                        "bn": "\u098f\u09ae\u09bf\u09a8 \u09ae\u09be\u0996\u09ae\u09c1\u09a6\u09ad",
+                        "hi": "\u090f\u092e\u093f\u0928 \u092e\u0916\u092e\u0941\u0926\u094b\u0935"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0625. \u0645\u062e\u0645\u062f\u0648\u0641",
+                        "bn": "\u0987. \u09ae\u09be\u0996\u09ae\u09c1\u09a6\u09ad",
+                        "hi": "\u0908. \u092e\u0916\u092e\u0941\u0926\u094b\u0935"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "goal",
+            "goalType": "penalty",
+            "situation": "penalty",
+            "playerCoordinates": {
+                "x": 10,
+                "y": 50,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 53.6,
+                "z": 8.4
+            },
+            "xg": 0.76,
+            "xgot": 0.81,
+            "id": 6900624,
+            "time": 69,
+            "timeSeconds": 4132,
+            "draw": {
+                "start": {
+                    "x": 50,
+                    "y": 10
+                },
+                "end": {
+                    "x": 46.4,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 46.4,
+                    "y": 91.6
+                }
+            },
+            "reversedPeriodTime": 22,
+            "reversedPeriodTimeSeconds": 1268,
+            "periodTimeSeconds": 1432,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Breno Almeyda",
+                "firstName": "Breno",
+                "lastName": "Almeyda",
+                "slug": "breno-almeyda",
+                "shortName": "B. Almeyda",
+                "position": "F",
+                "jerseyNumber": "33",
+                "userCount": 9,
+                "gender": "M",
+                "id": 2468820
+            },
+            "isHome": false,
+            "shotType": "miss",
+            "situation": "throw-in-set-piece",
+            "playerCoordinates": {
+                "x": 9,
+                "y": 48,
+                "z": 0
+            },
+            "bodyPart": "head",
+            "goalMouthLocation": "close-high",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 47.3,
+                "z": 56.6
+            },
+            "xg": 0.06283,
+            "id": 6900618,
+            "time": 64,
+            "timeSeconds": 3814,
+            "draw": {
+                "start": {
+                    "x": 48,
+                    "y": 9
+                },
+                "end": {
+                    "x": 52.7,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 52.7,
+                    "y": 43.4
+                }
+            },
+            "reversedPeriodTime": 27,
+            "reversedPeriodTimeSeconds": 1586,
+            "periodTimeSeconds": 1114,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Nughay Rashidov",
+                "slug": "nughay-rashidov",
+                "shortName": "N. Rashidov",
+                "position": "D",
+                "jerseyNumber": "66",
+                "userCount": 33,
+                "gender": "M",
+                "id": 1145992,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0646\u0648\u063a\u0627\u064a \u0631\u0627\u0634\u064a\u062f\u0648\u0641"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0646. \u0631\u0627\u0634\u064a\u062f\u0648\u0641"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "block",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 19,
+                "y": 38,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 50,
+                "z": 20
+            },
+            "blockCoordinates": {
+                "x": 19,
+                "y": 38,
+                "z": 0
+            },
+            "xg": 0.02276,
+            "id": 6900617,
+            "time": 47,
+            "timeSeconds": 2770,
+            "draw": {
+                "start": {
+                    "x": 38,
+                    "y": 19
+                },
+                "block": {
+                    "x": 38,
+                    "y": 19
+                },
+                "end": {
+                    "x": 50,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 50,
+                    "y": 80
+                }
+            },
+            "reversedPeriodTime": 44,
+            "reversedPeriodTimeSeconds": 2630,
+            "periodTimeSeconds": 70,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Sambou Sissoko",
+                "firstName": "",
+                "lastName": "",
+                "slug": "sambou-sissoko",
+                "shortName": "S. Sissoko",
+                "position": "M",
+                "jerseyNumber": "8",
+                "userCount": 52,
+                "gender": "M",
+                "id": 893030,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u0627\u0645\u0628\u0648 \u0633\u064a\u0633\u0648\u0643\u0648",
+                        "bn": "\u09b8\u09be\u09ae\u09cd\u09ac\u09c1 \u09b8\u09bf\u09b8\u09cb\u0995\u09cb",
+                        "hi": "\u0938\u093e\u092e\u094d\u092c\u094c \u0938\u093f\u0938\u094b\u0915\u094b"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0633. \u0633\u064a\u0633\u0648\u0643\u0648",
+                        "bn": "\u098f\u09b8. \u09b8\u09bf\u09b8\u09cb\u0995\u09cb",
+                        "hi": "\u090f\u0938. \u0938\u093f\u0938\u094b\u0915\u094b"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "miss",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 28,
+                "y": 60,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "close-high-right",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 43.8,
+                "z": 49.3
+            },
+            "xg": 0.001097,
+            "id": 6900616,
+            "time": 46,
+            "timeSeconds": 2724,
+            "draw": {
+                "start": {
+                    "x": 60,
+                    "y": 28
+                },
+                "end": {
+                    "x": 56.2,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 56.2,
+                    "y": 50.7
+                }
+            },
+            "reversedPeriodTime": 45,
+            "reversedPeriodTimeSeconds": 2676,
+            "periodTimeSeconds": 24,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Imad Faraj",
+                "slug": "imad-faraj",
+                "shortName": "I. Faraj",
+                "position": "M",
+                "jerseyNumber": "11",
+                "userCount": 338,
+                "gender": "M",
+                "id": 892625,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0639\u0645\u0627\u062f \u0641\u0631\u062c",
+                        "bn": "\u0987\u09ae\u09be\u09a6 \u09ab\u09be\u09b0\u09be\u099c",
+                        "hi": "\u0907\u092e\u093e\u0926 \u092b\u093c\u0930\u093e\u091c"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0639. \u0641\u0631\u062c",
+                        "bn": "\u0986\u0987. \u09ab\u09be\u09b0\u09be\u099c",
+                        "hi": "\u0906\u0908. \u092b\u093c\u0930\u093e\u091c"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "throw-in-set-piece",
+            "playerCoordinates": {
+                "x": 12,
+                "y": 38,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "high-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 51,
+                "z": 36.9
+            },
+            "xg": 0.265,
+            "xgot": 0.4682,
+            "id": 6900615,
+            "time": 45,
+            "timeSeconds": 2682,
+            "draw": {
+                "start": {
+                    "x": 38,
+                    "y": 12
+                },
+                "end": {
+                    "x": 49,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 49,
+                    "y": 63.1
+                }
+            },
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 18,
+            "periodTimeSeconds": 2682,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Emil Safarov",
+                "slug": "emil-safarov",
+                "shortName": "E. Safarov",
+                "position": "M",
+                "jerseyNumber": "7",
+                "userCount": 162,
+                "gender": "M",
+                "id": 999083,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0625\u064a\u0645\u064a\u0644 \u0633\u0641\u0627\u0631\u0648\u0641",
+                        "bn": "\u098f\u09ae\u09bf\u09b2 \u09b8\u09be\u09ab\u09be\u09b0\u09ad",
+                        "hi": "\u090f\u092e\u093f\u0932 \u0938\u092b\u093c\u093e\u0930\u094b\u0935"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0625. \u0633\u0641\u0627\u0631\u0648\u0641",
+                        "bn": "\u0987. \u09b8\u09be\u09ab\u09be\u09b0\u09ad",
+                        "hi": "\u0908. \u0938\u092b\u093c\u093e\u0930\u094b\u0935"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "throw-in-set-piece",
+            "playerCoordinates": {
+                "x": 10,
+                "y": 43,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 48.4,
+                "z": 8.8
+            },
+            "xg": 0.3286,
+            "xgot": 0.3355,
+            "id": 6900614,
+            "time": 45,
+            "timeSeconds": 2680,
+            "draw": {
+                "start": {
+                    "x": 43,
+                    "y": 10
+                },
+                "end": {
+                    "x": 51.6,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 51.6,
+                    "y": 91.2
+                }
+            },
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 20,
+            "periodTimeSeconds": 2680,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Moustapha Seck",
+                "slug": "moustapha-seck",
+                "shortName": "M. Seck",
+                "position": "D",
+                "jerseyNumber": "24",
+                "userCount": 153,
+                "gender": "M",
+                "id": 807292,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0645\u0648\u0633\u062a\u0627\u0641\u0627 \u0633\u064a\u0643"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0645. \u0633\u064a\u0643"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "miss",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 18,
+                "y": 34,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "close-high",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 47.2,
+                "z": 47.5
+            },
+            "xg": 0.05426,
+            "id": 6900613,
+            "time": 32,
+            "timeSeconds": 1882,
+            "draw": {
+                "start": {
+                    "x": 34,
+                    "y": 18
+                },
+                "end": {
+                    "x": 52.8,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 52.8,
+                    "y": 52.5
+                }
+            },
+            "reversedPeriodTime": 14,
+            "reversedPeriodTimeSeconds": 818,
+            "periodTimeSeconds": 1882,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Ifeanyi Mathew",
+                "slug": "ifeanyi-mathew",
+                "shortName": "M. Ifeanyi",
+                "position": "M",
+                "jerseyNumber": "18",
+                "userCount": 198,
+                "gender": "M",
+                "id": 795990,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0625\u064a\u0641\u064a\u0627\u0646\u064a \u0645\u0627\u062b\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0625. \u0645\u0627\u062b\u064a\u0648"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 22,
+                "y": 41,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "high-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 48.5,
+                "z": 32
+            },
+            "xg": 0.02396,
+            "xgot": 0.0462,
+            "id": 6900612,
+            "time": 30,
+            "timeSeconds": 1773,
+            "draw": {
+                "start": {
+                    "x": 41,
+                    "y": 22
+                },
+                "end": {
+                    "x": 51.5,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 51.5,
+                    "y": 68
+                }
+            },
+            "reversedPeriodTime": 16,
+            "reversedPeriodTimeSeconds": 927,
+            "periodTimeSeconds": 1773,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Bassala Sambou",
+                "slug": "bassala-sambou",
+                "shortName": "B. Sambou",
+                "position": "F",
+                "jerseyNumber": "9",
+                "userCount": 575,
+                "gender": "M",
+                "id": 824648,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0628\u0627\u0633\u0627\u0644\u0627 \u0633\u0627\u0645\u0628\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0628. \u0633\u0627\u0645\u0628\u0648"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "goal",
+            "goalType": "regular",
+            "situation": "corner",
+            "playerCoordinates": {
+                "x": 2,
+                "y": 49,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 54,
+                "z": 14.1
+            },
+            "xg": 0.6686,
+            "xgot": 0.9592,
+            "id": 6900611,
+            "time": 22,
+            "timeSeconds": 1273,
+            "draw": {
+                "start": {
+                    "x": 49,
+                    "y": 2
+                },
+                "end": {
+                    "x": 46,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 46,
+                    "y": 85.9
+                }
+            },
+            "reversedPeriodTime": 24,
+            "reversedPeriodTimeSeconds": 1427,
+            "periodTimeSeconds": 1273,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Seydine Keita",
+                "firstName": "",
+                "lastName": "",
+                "slug": "seydine-keita",
+                "shortName": "S. Keita",
+                "position": "D",
+                "jerseyNumber": "33",
+                "userCount": 36,
+                "gender": "M",
+                "id": 592030,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u064a\u062f\u064a\u0646 \u0643\u064a\u062a\u0627",
+                        "bn": "\u09b8\u09c7\u09af\u09bc\u09c7\u09a6\u09bf\u09a8 \u0995\u09c7\u0987\u099f\u09be",
+                        "hi": "\u0938\u0947\u092f\u0921\u0940\u0928 \u0915\u0940\u0924\u093e"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0633. \u0643\u064a\u062a\u0627",
+                        "bn": "\u098f\u09b8. \u0995\u09c7\u0987\u099f\u09be",
+                        "hi": "\u090f\u0938. \u0915\u0940\u0924\u093e"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "goal",
+            "goalType": "penalty",
+            "situation": "penalty",
+            "playerCoordinates": {
+                "x": 10,
+                "y": 50,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-right",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 47,
+                "z": 14.2
+            },
+            "xg": 0.76,
+            "xgot": 0.81,
+            "id": 6900623,
+            "time": 19,
+            "timeSeconds": 1135,
+            "draw": {
+                "start": {
+                    "x": 50,
+                    "y": 10
+                },
+                "end": {
+                    "x": 53,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 53,
+                    "y": 85.8
+                }
+            },
+            "reversedPeriodTime": 27,
+            "reversedPeriodTimeSeconds": 1565,
+            "periodTimeSeconds": 1135,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Adriel D'Avila Ba Loua",
+                "firstName": "",
+                "lastName": "",
+                "slug": "davila-ba-loua-adriel",
+                "shortName": "A. D. B. Loua",
+                "position": "M",
+                "jerseyNumber": "50",
+                "userCount": 286,
+                "gender": "M",
+                "id": 846832,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u0627\u0641\u064a\u0644\u0627 \u0628\u0627 \u0644\u0648\u0627\u060c \u0623\u062f\u0631\u064a\u064a\u0644",
+                        "bn": "\u09a1\u09bf'\u0986\u09ad\u09bf\u09b2\u09be \u09ac\u09be \u09b2\u09c1\u09af\u09bc\u09be, \u0985\u09cd\u09af\u09be\u09a1\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u09b2",
+                        "hi": "\u0921\u0940'\u0905\u0935\u093f\u0932\u093e \u092c\u093e \u0932\u094c\u0906, \u090f\u0921\u094d\u0930\u093f\u090f\u0932"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623. \u062f. \u0628. \u0644\u0648\u0627",
+                        "bn": "\u098f. \u09a1\u09bf. \u09ac\u09bf. \u09b2\u09c1\u09af\u09bc\u09be",
+                        "hi": "\u090f.\u0921\u0940.\u092c\u0940. \u0932\u094c\u0906"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "block",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 11,
+                "y": 41,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 50,
+                "z": 20
+            },
+            "blockCoordinates": {
+                "x": 11,
+                "y": 41,
+                "z": 0
+            },
+            "xg": 0.08515,
+            "id": 6900610,
+            "time": 6,
+            "timeSeconds": 325,
+            "draw": {
+                "start": {
+                    "x": 41,
+                    "y": 11
+                },
+                "block": {
+                    "x": 41,
+                    "y": 11
+                },
+                "end": {
+                    "x": 50,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 50,
+                    "y": 80
+                }
+            },
+            "reversedPeriodTime": 40,
+            "reversedPeriodTimeSeconds": 2375,
+            "periodTimeSeconds": 325,
+            "incidentType": "shot"
+        },
+        {
+            "player": {
+                "name": "Domi Massoumou",
+                "firstName": "Domi Massoumou",
+                "lastName": "",
+                "slug": "domi-massoumou",
+                "shortName": "D. Massoumou",
+                "position": "M",
+                "jerseyNumber": "14",
+                "userCount": 162,
+                "gender": "M",
+                "id": 1183571,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u0648\u0645\u064a \u0645\u0627\u0633\u0648\u0645\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u062f. \u0645\u0627\u0633\u0648\u0645\u0648"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "miss",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 14,
+                "y": 53,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "close-high-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 56.2,
+                "z": 47.1
+            },
+            "xg": 0.1314,
+            "id": 6900609,
+            "time": 4,
+            "timeSeconds": 217,
+            "draw": {
+                "start": {
+                    "x": 53,
+                    "y": 14
+                },
+                "end": {
+                    "x": 43.8,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 43.8,
+                    "y": 52.9
+                }
+            },
+            "reversedPeriodTime": 42,
+            "reversedPeriodTimeSeconds": 2483,
+            "periodTimeSeconds": 217,
+            "incidentType": "shot"
+        }
+    ]
+}
