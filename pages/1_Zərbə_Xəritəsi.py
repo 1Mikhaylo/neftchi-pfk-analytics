@@ -286,7 +286,8 @@ else:
 
         # Clip to half-pitch for heatmap (long-range outliers excluded)
         hm_mask = ys <= 55
-        if hm_mask.sum() >= 5:
+        has_spread = (np.std(xs[hm_mask]) > 0.5) and (np.std(ys[hm_mask]) > 0.5)
+        if hm_mask.sum() >= 5 and has_spread:
             xi = np.linspace(0, 68, 130)
             yi = np.linspace(0, 55, 115)        # ← extended from 52.5 to 55
             Xi, Yi = np.meshgrid(xi, yi)
