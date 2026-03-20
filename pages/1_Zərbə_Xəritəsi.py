@@ -121,7 +121,7 @@ st.sidebar.markdown(
 )
 show_goal  = st.sidebar.checkbox("Qol",          value=True)
 show_save  = st.sidebar.checkbox("Qapıçı tutdu", value=True)
-show_miss  = st.sidebar.checkbox("Ötüb keçdi",   value=True)
+show_miss  = st.sidebar.checkbox("Qeyri-dəqiq",   value=True)
 show_block = st.sidebar.checkbox("Bloklandı",    value=True)
 show_post  = st.sidebar.checkbox("Dirək",         value=True)
 
@@ -194,7 +194,7 @@ else:
     STYLES = {
         "goal":  {"face": "#F59E0B", "edge": "#F59E0B", "label": "Qol",          "size_mult": 1.05},
         "save":  {"face": "#38BDF8", "edge": "#38BDF8", "label": "Qapıçı tutdu", "size_mult": 0.72},
-        "miss":  {"face": "rgba(0,0,0,0)", "edge": "#F87171", "label": "Ötüb keçdi", "size_mult": 0.65},
+        "miss":  {"face": "rgba(0,0,0,0)", "edge": "#A78BFA", "label": "Qeyri-dəqiq", "size_mult": 0.65},
         "block": {"face": "rgba(0,0,0,0)", "edge": "#64748B", "label": "Bloklandı",  "size_mult": 0.65},
         "post":  {"face": "rgba(0,0,0,0)", "edge": "#FB923C", "label": "Dirək",       "size_mult": 0.65},
     }
