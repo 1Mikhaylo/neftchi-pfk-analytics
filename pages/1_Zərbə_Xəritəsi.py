@@ -155,7 +155,7 @@ st.sidebar.markdown(
 st.markdown("""
 <div style="margin-bottom:28px">
   <p style="font-size:0.62rem;font-weight:700;letter-spacing:0.20em;text-transform:uppercase;
-            color:#38BDF8;margin:0 0 6px">Neftchi FK &nbsp;·&nbsp; 2024/25 Premyer Liqa</p>
+            color:#38BDF8;margin:0 0 6px">Neftchi FK &nbsp;·&nbsp; 2025/26 Premyer Liqa</p>
   <h1 style="font-size:2.1rem;font-weight:800;color:#F1F5F9;letter-spacing:-0.03em;
              margin:0;line-height:1.05">Shot Map</h1>
   <p style="font-size:0.82rem;color:#3D5068;margin:8px 0 0">

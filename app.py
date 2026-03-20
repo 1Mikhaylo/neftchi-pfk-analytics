@@ -98,7 +98,7 @@ st.markdown(f"""
   <div>
     <p style="font-size:0.58rem;font-weight:700;letter-spacing:0.22em;
               text-transform:uppercase;color:#38BDF8;margin:0 0 6px">
-      Premyer Liqa &nbsp;·&nbsp; 2024/25 Mövsümü
+      Premyer Liqa &nbsp;·&nbsp; 2025/26 Mövsümü
     </p>
     <h1 style="font-size:2.4rem;font-weight:800;color:#F1F5F9;
                letter-spacing:-0.03em;margin:0;line-height:1.05">

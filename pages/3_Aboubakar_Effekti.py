@@ -165,7 +165,7 @@ quality_improvement = q_pct
 st.markdown("""
 <div style="margin-bottom:24px">
   <p style="font-size:0.58rem;font-weight:700;letter-spacing:0.22em;text-transform:uppercase;
-            color:#38BDF8;margin:0 0 6px">Neftchi FK &nbsp;·&nbsp; 2024/25 Premyer Liqa</p>
+            color:#38BDF8;margin:0 0 6px">Neftchi FK &nbsp;·&nbsp; 2025/26 Premyer Liqa</p>
   <h1 style="font-size:2.2rem;font-weight:800;color:#F1F5F9;letter-spacing:-0.03em;
              margin:0;line-height:1.05">Vincent Aboubakar Təsiri</h1>
   <p style="font-size:0.80rem;color:#334155;margin:8px 0 0">
