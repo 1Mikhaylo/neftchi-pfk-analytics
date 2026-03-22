@@ -77,7 +77,7 @@ df = load_data()
 
 # ── Era tagging ───────────────────────────────────────────────────────────────
 ABOU_FIRST  = 1026
-ABOU_ABSENT = {1410}  # Match where he didn't play (shot data alone can't detect this —
+ABOU_ABSENT = {1410, 1515, 1520}   # Match where he didn't play (shot data alone can't detect this —
                       # a player can play without taking a shot)
 
 df["era"] = df["season_order"].apply(

@@ -43,7 +43,8 @@ def load_data():
     
     # FIX: Standardize player names
     df['player'] = df['player'].replace({
-        'M. Mammadov': 'M. Məmmədov'
+        'M. Mammadov': 'M. Məmmədov',
+        'B. Almeyda': 'B. Almeida',
     })
     
     return df
